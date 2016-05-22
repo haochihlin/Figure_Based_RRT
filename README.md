@@ -5,10 +5,10 @@ The purpose of this program is to create a simple code for implementing the RRT 
 You can watch the demo video on the following link: https://www.youtube.com/watch?v=AFrtssAUE4E    
 One of the most important feature of this program is that the user could load any format of figure as the map,    
 saving the trouble on setting obstacles in other RRT programs.    
-For the concept of RRT algorithm, please see the [wiki](https://en.wikipedia.org/wiki/Rapidly_exploring_random_tree) or [ LaValle, Steven M's paper] (http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)    
-Author: LIN, Hao-Chih (Jim)
-Date: 2016/05/22
-Notices: Since I took this task as a one-day challenge, there are still existing some bugs.
+For the concept of RRT algorithm, please see the [wiki](https://en.wikipedia.org/wiki/Rapidly_exploring_random_tree) or [ LaValle, Steven M's paper] (http://msl.cs.uiuc.edu/~lavalle/papers/Lav98c.pdf)      
+Author: LIN, Hao-Chih (Jim)     
+Date: 2016/05/22       
+Notices: Since I took this task as a one-day challenge, there are still existing some bugs.       
 License: LGPL 3.0    
     
 [How to compile]   
@@ -19,7 +19,7 @@ Windows and Linux
 Qt-Creator, OpenCV
     
 == Steps ==      
-1. Change the path of OpenCV libs in "RRT_figurebase.pro" file     
+1. Modify the path of OpenCV libs in "RRT_figurebase.pro" file     
 2. In Qt-Creator, execute "Compile & Run"    
      
 [How to use]    
