@@ -30,4 +30,4 @@ Qt-Creator, OpenCV
 
 [Contact info]   
 If you have any question or suggestion, please send a mail to following address:  
-f44006076@gmail.com
+f44006076@gmail.com  
